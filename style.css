@@ -1,0 +1,23 @@
+/* button {
+    border-radius: 6px;
+    color:#fff;
+    padding: 8px 22px;
+    background: #7d2ae8 ;
+    transition: all 0.2s ease;
+  }
+button :active{
+    transform: scalr(0.96);
+}*/
+.button:hover{
+  background-color:aqua;
+}
+.image:hover{
+  border :10px solid rgb(35, 161, 190);
+  border-radius: 110px;
+}
+.back-1{
+  background-color:rgb(140, 195, 221)
+}
+.back-2{
+  background-color:rgb(61, 151, 193)
+}
